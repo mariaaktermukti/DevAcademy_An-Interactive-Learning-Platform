@@ -4,7 +4,7 @@ Welcome to **DevAcademy**, a unified learning and workforce management applicati
 
 ---
 
-## 🔑 Demo Account Quick Access
+## Demo Account Quick Access
 To make testing simple, we've pre-configured three accounts with all authorization levels. You can sign in using these credentials or create a new custom account:
 
 | Role | Email Address | Password | Focus Area |
@@ -15,7 +15,7 @@ To make testing simple, we've pre-configured three accounts with all authorizati
 
 ---
 
-## 🌟 Core Features
+##  Core Features
 
 ### 1. Student Learning Hub
 - **Interactive Coding Sandbox**: Learn languages like Python or JavaScript with a real-time isolated execution engine that runs unit tests instantly.
@@ -34,7 +34,7 @@ To make testing simple, we've pre-configured three accounts with all authorizati
 
 ---
 
-## 🛠️ Technical Overview
+## Technical Overview
 
 The application is built using a modern full-stack architecture:
 - **Frontend**: React (TypeScript) and Vite styled with high-contrast Tailwind CSS utility classes and Lucide icons.

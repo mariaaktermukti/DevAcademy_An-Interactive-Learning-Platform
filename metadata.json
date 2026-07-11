@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Developer Academy",
+  "description": "An interactive full-stack learning platform for students, instructors, and admins, featuring coding playgrounds, AI mock interviews, live quizzes, video streaming, and portfolio builders.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
